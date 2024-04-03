@@ -128,3 +128,9 @@ Here are some highly recommended books and resources for learning about algorith
 * [Untrusted](https://alexnisnevich.github.io/untrusted/) - A JavaScript adventure game where players hack into a computer system by writing JavaScript code, teaching programming and algorithmic thinking.
 * [Elevators Saga](https://play.elevatorsaga.com/) - A game where players write JavaScript code to control elevators and transport passengers efficiently, teaching algorithmic optimization.
 
+## License
+*For the sake of copyleft, here's our license:*
+* ![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)
+© 2024 by [Karthik C](https://github.com/karthikc0711).
+
+Licensed under [Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/)
